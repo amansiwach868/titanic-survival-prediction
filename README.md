@@ -1,33 +1,23 @@
-# Titanic Survival Prediction | Titanic Hayatta Kalma Tahmini
+# Titanic Survival Prediction
 
-This project aims to predict whether Titanic passengers survived or not using machine learning techniques.  
-Bu proje, Titanic yolcularının hayatta kalıp kalmadığını makine öğrenmesi kullanarak tahmin etmeyi amaçlar.
+This project uses the Titanic dataset to build machine learning models that predict passenger survival.
 
----
+## Contents
 
-## 📂 Contents | İçerik
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Feature Engineering
+- Logistic Regression & Decision Tree Models
+- Model Evaluation (Accuracy, Precision, Recall)
 
-- Analysis of missing data  
-  Eksik verilerin analizi
+## Dataset
 
-- Feature engineering (gender, age, passenger class, etc.)  
-  Özellik mühendisliği (cinsiyet, yaş, sınıf vb.)
+The dataset is from [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
 
-- Logistic Regression and Decision Tree models  
-  Lojistik Regresyon ve Karar Ağacı modelleri
+## Tools Used
 
-- Model evaluation (accuracy, precision, recall)  
-  Model değerlendirmesi (accuracy, precision, recall)
-
----
-
-## 🛠️ Tools Used | Kullanılan Araçlar
-
-- Python  
+- Python
 - pandas, numpy, matplotlib, seaborn, scikit-learn
 
----
+## Author
 
-## 📎 Source | Kaynak
-
-- [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic)
+- GitHub: [codelones](https://github.com/codelones)
