@@ -52,3 +52,18 @@ This project aims to predict whether Titanic passengers survived or not using ma
 
 I am still in the learning phase and working on projects to apply what I learn in practice.  
 I truly welcome any feedback, questions, or suggestions you may have — feel free to reach out!
+
+## 📉 ROC Curve
+
+This plot shows the performance of the logistic regression model in terms of True Positive Rate vs. False Positive Rate.
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
+## 📊 Confusion Matrix
+
+A visual representation of the model’s predictions compared to the actual outcomes.
+
+![Confusion Matrix](images/confusion_matrix.png)
+
