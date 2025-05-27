@@ -67,3 +67,10 @@ A visual representation of the model’s predictions compared to the actual outc
 
 ![Confusion Matrix](images/confusion_matrix.png)
 
+## Threshold with Boxplot 
+
+![Threshold](images/boxplot_iqr.png)
+
+## Confusion Matrix 
+
+![Threshold](images/confusion_matrix.png)
