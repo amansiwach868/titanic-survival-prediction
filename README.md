@@ -73,4 +73,4 @@ A visual representation of the model’s predictions compared to the actual outc
 
 ## Confusion Matrix 
 
-![Threshold](images/confusion_matrix.png)
+![Threshold](images/missing_value.png)
